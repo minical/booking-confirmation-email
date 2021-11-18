@@ -1,5 +1,5 @@
 <p>
-	<h1 align="center">Automatically send booking confirmation emails to the customers that create a booking in your property, also provide an editor for updating Booking mail content.
+	<h1 align="center">
 	Booking Confirmation Email</h1>
 </p>
 
@@ -11,7 +11,7 @@
 * [License](#license)
 
 ### Introduction
-Automatically send booking confirmation emails to the customers that create a booking in your property, also provide an editor for updating Booking mail content. 
+Automatically send booking confirmation emails to the customers that create a booking in your property, also provide an editor for updating Booking mail content.
 
 ### Installation
 * Fork the repository https://github.com/minical/booking-confirmation-email or clone it locally, or you can get this extension from [miniCal MarketPlace](https://marketplace.minical.io/product/booking-email/). 
